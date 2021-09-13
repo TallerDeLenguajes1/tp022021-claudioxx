@@ -1,0 +1,75 @@
+2021-09-13 03:08:12.0426|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-13 03:08:12.0579|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-13 03:08:12.0579|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\claud\Source\Repos\Taller2-2021\TP2\tp022021-claudioxx\TP2_LogueoConNlog
+2021-09-13 03:09:24.3132|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-13 03:09:24.3228|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-13 03:09:24.3228|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\claud\Source\Repos\Taller2-2021\TP2\tp022021-claudioxx\TP2_LogueoConNlog
+2021-09-13 03:10:24.8458|0|INFO|TP2_LogueoConNlog.Controllers.HomeController|
+Empleado ingresado:
+	Nombre: Armando Claudio
+	Edad: 25
+	Antiguedad: 26
+	Salario: 825000
+2021-09-13 03:12:38.3155|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-13 03:12:38.3220|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-13 03:12:38.3220|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\claud\Source\Repos\Taller2-2021\TP2\tp022021-claudioxx\TP2_LogueoConNlog
+2021-09-13 03:13:00.6481|0|INFO|TP2_LogueoConNlog.Controllers.HomeController|
+Empleado ingresado:
+	Nombre: s
+	Edad: 0 Años
+	Antiguedad: 2020 Años
+	Salario: 0
+2021-09-13 03:15:03.9173|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-13 03:15:03.9173|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-13 03:15:03.9173|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\claud\Source\Repos\Taller2-2021\TP2\tp022021-claudioxx\TP2_LogueoConNlog
+2021-09-13 03:15:03.9935|0|INFO|TP2_LogueoConNlog.Controllers.HomeController|
+Empleado ingresado:
+	Nombre: 
+	Edad: 0 Años
+	Antiguedad: 2020 Años
+	Salario: 0
+2021-09-13 03:15:07.9641|0|INFO|TP2_LogueoConNlog.Controllers.HomeController|
+Empleado ingresado:
+	Nombre: sd
+	Edad: 0 Años
+	Antiguedad: 2020 Años
+	Salario: 0
+2021-09-13 03:16:22.2524|0|INFO|TP2_LogueoConNlog.Controllers.HomeController|
+Empleado ingresado:
+	Nombre: sd
+	Edad: 0 Años
+	Antiguedad: 2020 Años
+	Salario: 0
+2021-09-13 03:16:26.1500|0|INFO|TP2_LogueoConNlog.Controllers.HomeController|
+Empleado ingresado:
+	Nombre: asdfe
+	Edad: 0 Años
+	Antiguedad: 2020 Años
+	Salario: 0
+2021-09-13 03:16:41.6190|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-13 03:16:41.6318|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-13 03:16:41.6318|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\claud\Source\Repos\Taller2-2021\TP2\tp022021-claudioxx\TP2_LogueoConNlog
+2021-09-13 03:16:41.7010|0|INFO|TP2_LogueoConNlog.Controllers.HomeController|
+Empleado ingresado:
+	Nombre: 
+	Edad: 0 Años
+	Antiguedad: 2020 Años
+	Salario: 0
+2021-09-13 03:16:46.3948|0|INFO|TP2_LogueoConNlog.Controllers.HomeController|
+Empleado ingresado:
+	Nombre: pepegrillo
+	Edad: 0 Años
+	Antiguedad: 2020 Años
+	Salario: 0
+2021-09-13 03:27:55.4140|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-13 03:27:55.4140|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-13 03:27:55.4140|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\claud\Source\Repos\Taller2-2021\TP2\tp022021-claudioxx\TP2_LogueoConNlog
+2021-09-13 03:28:43.2688|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-09-13 03:28:43.2756|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-09-13 03:28:43.2756|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\claud\Source\Repos\Taller2-2021\TP2\tp022021-claudioxx\TP2_LogueoConNlog
+2021-09-13 03:28:59.1410|0|INFO|TP2_LogueoConNlog.Controllers.HomeController|
+Empleado ingresado:
+	Nombre: asd
+	Edad: 123 Años
+	Antiguedad: 1898 Años
+	Salario: 135,3

@@ -1,10 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "s2qvrQTXnP9i3M16GAy2nEIGjlNT1V8n0DeyQeU00Vf+BLVhJ+5uYLwXXu0MM2y92XPzq/jlxx33smOn3YvO4Q==",
+  "dgSpecHash": "PlDXv2O5lqG5WCds42rfy5/ZE6i/mE4TI10YkY43W9KxVeuB5p9aoZeYPvZhNeadtUOS9hVKZTrqGrE4mPY05A==",
   "success": true,
   "projectFilePath": "C:\\Users\\claud\\Source\\Repos\\Taller2-2021\\TP2\\tp022021-claudioxx\\TP2_LogueoConNlog\\TP2_LogueoConNlog.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\claud\\.nuget\\packages\\nlog\\4.7.11\\nlog.4.7.11.nupkg.sha512"
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\nlog\\4.7.11\\nlog.4.7.11.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\nlog.extensions.logging\\1.7.4\\nlog.extensions.logging.1.7.4.nupkg.sha512",
+    "C:\\Users\\claud\\.nuget\\packages\\nlog.web.aspnetcore\\4.14.0\\nlog.web.aspnetcore.4.14.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Empleado
+namespace TP2_LogueoConNlog.Controllers
 {
 	class Empleado
 	{
@@ -12,14 +12,7 @@ namespace Empleado
 		private int numCalle;
 		private DateTime fechaIngreso;
 		private float sueldoBasico;
-		private float salario;
-		private bool casado;
-		private int cantHijos;
-		private bool divorciado;
-		private DateTime fechaDivorcio;
-		private bool universitario;
-		private string titulo;
-		private string universidad;
+		private float salario; 
 
 		public Empleado(string apellNombre, int edad , string direccion , int numCalle , DateTime fechaIngreso, float sueldoBasico)
 		{

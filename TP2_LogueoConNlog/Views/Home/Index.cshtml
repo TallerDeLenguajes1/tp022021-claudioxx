@@ -6,3 +6,23 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+
+<div>
+    <form asp-action="Index" asp-controller="Home" method="post">
+        <div class="form-group col-6">
+            <label for="ApellidoYNombre">Apellido y Nombre</label>
+            <input type="text" class="form-control" id="ApellidoYNombre" name="ApellYNombre">
+            <label for="Edad">Edad</label>
+            <input type="number" class="form-control" id="Edad" min="0" name="Edad">
+            <label for="direccion">Direccion</label>
+            <input type="text" class="form-control" id="direccion" name="direccion">
+            <label for="Num">Num°</label>
+            <input type="number" class="form-control" id="Num" min="0" name="Num">
+            <label for="fechaIngreso">Fecha de ingreso</label>
+            <input type="date" class="form-control" id="fechaIngreso" min="0" name="fechaIngreso">
+            <label for="sueldo">Sueldo basico</label>
+            <input type="number" class="form-control" id="sueldo" min="0" step="any" name="sueldo">
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
